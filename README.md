@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin Multiplatform**
 
-- 📝 I regularly write articles on [https://medium.com/@kandadev](https://medium.com/@kandadev)
+- 📝 You can check my articles on [https://medium.com/@kandadev](https://medium.com/@kandadev)
 
 - 💬 Ask me about **Android**
 

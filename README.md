@@ -7,8 +7,6 @@
 
 - 📝 You can check my articles on [https://medium.com/@kandadev](https://medium.com/@kandadev)
 
-- 💬 Ask me about **Android**
-
 - 📫 How to reach me **jcaique.jc@gmail.com**
 
 ### Blogs posts

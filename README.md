@@ -16,6 +16,9 @@
 
 - 📫 How to reach me **jcaique.jc@gmail.com**
 
+
+<a href="https://github.com/jcaiqueoliveira"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=jcaiqueoliveira&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
+
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
